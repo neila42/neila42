@@ -32,8 +32,8 @@ Welcome to my summary of all the projects I've worked on during my time at Écol
 23. [Pipex](https://github.com/neila42/Pipex) - Simulates pipe behavior in a Unix shell.
 24. [Push_Swap](https://github.com/neila42/Push_swap) - Design a sorting algorithm.
 25. [Get_Next_Line](https://github.com/neila42/Get_next_line) - Read a line from a file descriptor.
-26. [Ft_printf](https://github.com/neila42/Ft_printf) - Rebuild printf function.
-27. [Libft](https://github.com/neila42/Libft) - Create a library of functions often used in C.
+26. [Ft_printf](https://github.com/neila42/Ft_printf) - Custom rewriting of C's printf function
+27. [Libft](https://github.com/neila42/Libft) - Creation of a library of functions often used in C.
 
 **Hackaton**
 1. [HorlogerieX42](https://github.com/neila42/HorlogerieX42) - Project integrating both hardware and software development of a connected watch for a watch brand in Geneva.

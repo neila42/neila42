@@ -38,36 +38,15 @@ Welcome to my summary of all the projects I've worked on during my time at Écol
 **Hackaton**
 1. [HorlogerieX42](https://github.com/neila42/HorlogerieX42) - Project integrating both hardware and software development of a connected watch for a watch brand in Geneva.
 
-## Languages and Tools
-<div align="center">
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img style="margin: 10px" src="lien-vers-l-image-cplusplus" alt="C++" height="50" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 10px" src="lien-vers-l-image-python" alt="Python" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img style="margin: 10px" src="lien-vers-l-image-javascript" alt="JavaScript" height="50" />
-  </a>
-  <br>
-  <a href="https://reactjs.org/" target="_blank">
-    <img style="margin: 10px" src="lien-vers-l-image-react" alt="React" height="50" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img style="margin: 10px" src="lien-vers-l-image-express" alt="Express.js" height="50" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img style="margin: 10px" src="lien-vers-l-image-visual-studio-code" alt="Visual Studio Code" height="50" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img style="margin: 10px" src="lien-vers-l-image-git" alt="Git" height="50" />
-  </a>
-  <br>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img style="margin: 10px" src="lien-vers-l-image-mysql" alt="MySQL" height="50" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img style="margin: 10px" src="lien-vers-l-image-mongodb" alt="MongoDB" height="50" />
-  </a>
+## Languages and Tools  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
- 

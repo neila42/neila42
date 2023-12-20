@@ -12,7 +12,7 @@ Welcome to my summary of all the projects I've worked on during my time at Écol
 **Cursus 42**
 
 1. [Transcendence](https://github.com/neila42/Transcendance) - Development of a full-stack web application.
-2. [Inception](https://github.com/neila42/Inception) - Creation of a Docker infrastructure.
+2. [Inception](https://github.com/neila42/Inception) - Docker container and virtualization project.
 3. [Webserver](https://github.com/neila42/Webserver) - Development of an HTTP/HTTPS web server.
 5. [Cpp Modules 09](https://github.com/neila42/Cpp09) - Exploring STL containers, including queues, stacks and maps, and their practical uses in C++.
 6. [Cpp Modules 08](https://github.com/neila42/Cpp08) - Implementation of STL containers, iterators and algorithms.
@@ -24,16 +24,16 @@ Welcome to my summary of all the projects I've worked on during my time at Écol
 12. [Cpp Modules 02](https://github.com/neila42/Cpp02) - Exploring overload operators and encapsulation.
 13. [Cpp Modules 01](https://github.com/neila42/Cpp01) - A deeper understanding of class and instance concepts in C++.
 14. [Cpp Modules 00](https://github.com/neila42/Cpp00) - Introduction to the basics of object-oriented programming in C++.
-15. [Net_Practice](https://github.com/neila42/Net_Practice) - Project focusing on computer networks.
-19. [Cub3D](https://github.com/neila42/Cub3D) - 3D maze game (FPS).
-20. [Minishell](https://github.com/neila42/minishell) - Creation of a basic Unix shell.
-21. [Philosophers](https://github.com/neila42/Philosophers) - Simulates the problem of philosophers dining.
-22. [So_Long](https://github.com/neila42/So_long) - Create a 2D game.
-23. [Pipex](https://github.com/neila42/Pipex) - Simulates pipe behavior in a Unix shell.
-24. [Push_Swap](https://github.com/neila42/Push_swap) - Design a sorting algorithm.
-25. [Get_Next_Line](https://github.com/neila42/Get_next_line) - Read a line from a file descriptor.
-26. [Ft_printf](https://github.com/neila42/Ft_printf) - Custom rewriting of C's printf function
-27. [Libft](https://github.com/neila42/Libft) - Creation of a library of functions often used in C.
+15. [Net_Practice](https://github.com/neila42/Net_Practice) - Practical exercises in networking.
+19. [Cub3D](https://github.com/neila42/Cub3D) - Raycasting-based game engine (FPS).
+20. [Minishell](https://github.com/neila42/minishell) - Basic shell (bash) implementation.
+21. [Philosophers](https://github.com/neila42/Philosophers) - Thread management and synchronization challenges.
+22. [So_Long](https://github.com/neila42/So_long) - 2D tile-based game.
+23. [Pipex](https://github.com/neila42/Pipex) - Simulation of shell pipes and redirections.
+24. [Push_Swap](https://github.com/neila42/Push_swap) - Optimized sorting with limited operations.
+25. [Get_Next_Line](https://github.com/neila42/Get_next_line) - Line-by-line file reading.
+26. [Ft_printf](https://github.com/neila42/Ft_printf) - Custom version of the printf function.
+27. [Libft](https://github.com/neila42/Libft) -  Reimplementation of C standard functions.
 
 **Hackaton**
 1. [HorlogerieX42](https://github.com/neila42/HorlogerieX42) - Project integrating both hardware and software development of a connected watch for a watch brand in Geneva.

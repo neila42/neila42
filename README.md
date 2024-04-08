@@ -7,7 +7,7 @@ As a female developer in a traditionally male-dominated field, I take pride in c
 [LinkedIn](https://www.linkedin.com/in/neilam4242)
 
 ## 🪲 Welcome to my code area 🪲
-Welcome to my summary of all the projects I've worked on during my time at 42 Lausanne, as well as my personal projects. I've centralized a list of these projects here, with direct links to their respective GitHub repositories.
+Welcome to my summary of all the projects I've worked on during my time at 42 Lausanne. I've centralized them bellow, with direct links to their respective GitHub repositories.
 
 **Cursus 42**
 

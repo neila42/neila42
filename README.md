@@ -13,7 +13,7 @@ Welcome to my summary of all the projects I've worked on during my time at 42 La
 
 1. [Transcendence](https://github.com/neila42/Transcendance) - Development of a full-stack web application.
 2. [Inception](https://github.com/neila42/Inception) - Docker container and virtualization project.
-3. [Webserver](https://github.com/neila42/Webserver) - Development of an HTTP/HTTPS web server.
+3. [IRC](https://github.com/neila42/IRC) - Implementation and deployment of an Internet Relay Chat server.
 5. [Cpp Modules 09](https://github.com/neila42/Cpp09) - Exploring STL containers, including queues, stacks and maps, and their practical uses in C++.
 6. [Cpp Modules 08](https://github.com/neila42/Cpp08) - Implementation of STL containers, iterators and algorithms.
 7. [Cpp Modules 07](https://github.com/neila42/Cpp07) - Exploration of templates in C++ and their application.
